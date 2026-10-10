@@ -1,0 +1,11 @@
+﻿Image Name,Actual Fruit Count,Predicted Fruit Count,Counting Error,Counting Accuracy (%)
+dataset1_back_1.png,15,18,3,80.0
+dataset1_back_1021.png,5,21,16,0.0
+dataset1_back_1051.png,45,22,23,48.89
+dataset1_back_1081.png,22,22,0,100.0
+dataset1_back_1111.png,15,15,0,100.0
+dataset1_back_1141.png,17,17,0,100.0
+dataset1_back_1171.png,20,20,0,100.0
+dataset1_back_1201.png,18,18,0,100.0
+dataset1_back_121.png,23,23,0,100.0
+dataset1_back_151.png,32,32,0,100.0
